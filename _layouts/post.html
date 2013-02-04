@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<section>
+  <article>
+    <h2>
+      <a href='{{ page.url }}'>{{ page.title }}</a>
+    </h2>
+    <p>
+      <em class='muted'>posted on <date>{{ page.date | date: "%B %d %Y" }}</date> by {{ page.author }}</em>
+    </p>
+    {{ page.content }}
+  </article>
+</section>
