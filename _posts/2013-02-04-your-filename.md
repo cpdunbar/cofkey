@@ -1,6 +1,6 @@
 ---
 layout: default
-published: false
+
 ---
 
 # God only knows how it works.
