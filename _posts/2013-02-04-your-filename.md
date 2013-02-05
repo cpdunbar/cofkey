@@ -2,6 +2,7 @@
 layout: default
 author: cp
 
+published: false
 ---
 
 # God only knows how it works.
@@ -15,4 +16,4 @@ tara will be amazed
 
 no tellin what christina will think
 
-wah wants me to work too much
+wah wants me to work too damn much
