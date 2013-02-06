@@ -2,7 +2,6 @@
 layout: default
 author: cp
 
-
 ---
 
 # God only knows how it works.
@@ -17,3 +16,5 @@ tara will be amazed
 no tellin what christina will think
 
 wah wants me to work too damn much
+
+# wonder what the hell i am doing ?  :)
