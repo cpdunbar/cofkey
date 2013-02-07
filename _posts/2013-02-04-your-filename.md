@@ -6,6 +6,7 @@ author: cp
 
 
 
+
 ---
 
 # Prognostication
@@ -20,4 +21,4 @@ author: cp
     	* thing 2a
         thing 2b
        
-[GitHub](https://docs.google.com/document/d/1FGr2dfDAiOiSPOfM_EJRWwAYqQEDhvOrku3cQer2Ppk/edit)
+[EGD](https://docs.google.com/document/d/1FGr2dfDAiOiSPOfM_EJRWwAYqQEDhvOrku3cQer2Ppk/edit)
