@@ -10,7 +10,7 @@ title: Prognostication
 
 
 
-published: false
+
 ---
 
 # Prognostication
