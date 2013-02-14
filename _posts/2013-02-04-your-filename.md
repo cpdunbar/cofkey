@@ -1,7 +1,7 @@
 ---
 layout: default
 author: cp
-title: Prognostication
+title: Hospice and Palliative Medicine Information
 
 
 
