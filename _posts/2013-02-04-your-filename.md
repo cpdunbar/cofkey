@@ -14,7 +14,7 @@ title: Prognostication
 
 ---
 
-# Prognostication
+# Hospice and Palliative Medicine Info
 	
  
 
