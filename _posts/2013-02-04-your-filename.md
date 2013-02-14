@@ -4,8 +4,6 @@ author: cp
 title: Hospice and Palliative Medicine Information
 
 
-
-
 ---
 
 ## Nursing Guides
@@ -16,4 +14,7 @@ title: Hospice and Palliative Medicine Information
 
 
 ## Resources
+
+[24 Hour Pharmacies](https://docs.google.com/document/d/1K-NeCK2wYueBNubGO1pvgeabH-xzvX7lNvUimBl9mK8/pub)
+
 
