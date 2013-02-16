@@ -6,6 +6,7 @@ title: Hospice and Palliative Medicine Information
 
 
 
+published: false
 ---
 
 ## Nursing Guides
@@ -15,6 +16,8 @@ title: Hospice and Palliative Medicine Information
 [Prescription Request requirements](https://docs.google.com/document/d/1G3eRkaUgBPiYPnIbLd9r9reEh5iPDy4vdm2XHKuxJdE/pub)
 
 [Prognostication factors](https://docs.google.com/document/d/1W0vdoDkxxrJx01fxPS6MxAS6tVTObChrjYwqqFCTdX0/pub)
+
+[Tools](https://docs.google.com/document/d/1iaUf36YO2oOTvMCSuyBj_1A9qs6sfaCdWxvFdwzwGBo/pub)
 
 
 ## Resources
